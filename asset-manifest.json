@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Foodipy/static/css/main.073c9b0a.css",
-    "main.js": "/Foodipy/static/js/main.96410b68.js",
+    "main.js": "/Foodipy/static/js/main.2c292c72.js",
     "static/js/787.d6abd5fe.chunk.js": "/Foodipy/static/js/787.d6abd5fe.chunk.js",
     "index.html": "/Foodipy/index.html",
     "main.073c9b0a.css.map": "/Foodipy/static/css/main.073c9b0a.css.map",
-    "main.96410b68.js.map": "/Foodipy/static/js/main.96410b68.js.map",
+    "main.2c292c72.js.map": "/Foodipy/static/js/main.2c292c72.js.map",
     "787.d6abd5fe.chunk.js.map": "/Foodipy/static/js/787.d6abd5fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.96410b68.js"
+    "static/js/main.2c292c72.js"
   ]
 }
